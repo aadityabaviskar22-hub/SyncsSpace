@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Collaborative Project Hub - Architecture Spec",
+  "description": "Full-stack architectural blueprint, MongoDB schemas, REST API specs, Socket.IO events, and role matrix for the monorepo project hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
